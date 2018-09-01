@@ -1,0 +1,43 @@
+html, body{
+    height: 100%;
+    margin: 0 auto;
+}
+
+body{
+    background-image: url(assets/slider-1.png);
+    background-size: cover;
+    background-position: center;
+}
+#logo{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #efff7c;
+}
+h2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4em;
+    margin-left: 40px;
+    padding-top: 80px;
+    color: #efff7c;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    font-size: 2em;
+    padding-top: 0px;
+    margin-left: 40px;
+    color: white;
+
+}
+button{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    background-color: #efff7c;
+    margin-left: 40px;
+    padding: 10px;
+    border: 2px solid #b8c74c;
+
+}
+
